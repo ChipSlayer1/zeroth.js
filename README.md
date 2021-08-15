@@ -1,2 +1,1 @@
-# zeroth.js
-a junk library
+zeroth.js is a library I'm working on that I'm trying to put on github so that I can access it from any device anywhere without having to download it. Use it if you want, but you'd be way better off using any other library.
